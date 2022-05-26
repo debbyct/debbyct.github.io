@@ -47,6 +47,51 @@ a {
     color: #000;
     transform: scale(1.1);
   }
+
+  .box{
+    background-color: #59A9C2;
+    height: 184px;
+    width: 641.8041381835938px;
+    left: nullpx;
+    top: nullpx;
+    border-radius: 0px;
+    box-shadow: 10px 10px 0px #000;
+  }
+
+  #First{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    color: #CD6B97;
+    text-shadow: 4px 4px 0px #000;
+  }
+
+  #Second{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    line-height: 30px;
+    height: 30px;
+    text-shadow: 4px 4px 0px #000;
+  }  
+
+  .press{
+    background: #59A9C2;
+    font-family: "Fira Code";
+    font-size: 20px;
+    font-weight: 500; 
+    font-style: normal;
+    color:#FFFFFF;
+    height: 60px;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 174.01px;
+    left: 440.93px;
+    top: 418px;
+    border-radius: 0px;
+    box-shadow: 5px 5px 0px #000;
+}
+
+
  
   
   
